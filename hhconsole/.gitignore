@@ -40,7 +40,6 @@
 ## DOS
 *.exe
 *.com
-*.bat
 
 # Save States
 *.state
