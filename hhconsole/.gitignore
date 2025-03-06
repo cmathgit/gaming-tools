@@ -1,0 +1,59 @@
+# ROM File Extensions
+*.sav
+*.gba
+*.gbc
+*.gb*
+*.gdi
+*.z64
+*.v64
+*.n64
+*.nes
+*.smc
+*.nds
+*.3ds
+*.iso
+*.bin
+*.cue
+*.nkit
+*.rom
+*.img
+*.disk
+
+# Console Specific
+## Dreamcast
+*.cdi
+*.chd
+
+## PlayStation
+*.pkg
+*.rap
+*.edat
+*.psv
+
+## GameCube/Wii
+*.gcm
+*.ciso
+*.rvz
+*.wad
+*.dol
+
+## DOS
+*.exe
+*.com
+*.bat
+
+# Save States
+*.state
+*.srm
+*.bak
+*.mem
+
+# Compressed Files
+*.7z
+*.rvz
+*.wia
+
+# Temporary Files
+*.tmp
+*.download
+*.part
